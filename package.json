@@ -1,0 +1,14 @@
+{
+  "name": "tasktrove",
+  "version": "1.0.0",
+  "description": "A to-do app with enhanced functionality and interactivity",
+  "main": "index.js",
+  "keywords": [
+    "todo",
+    "task",
+    "app",
+    "webpack"
+  ],
+  "author": "freddyfavour",
+  "license": "MIT"
+}
