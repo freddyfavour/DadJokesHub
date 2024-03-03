@@ -49,7 +49,7 @@ module.exports = {
   },
   plugins: [
     new HtmlWebpackPlugin({
-      title: "Webpack App",
+      title: "Dad Jokes Hub",
       filename: "index.html",
       template: "src/template.html",
     }),
